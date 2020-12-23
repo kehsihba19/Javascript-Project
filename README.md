@@ -11,6 +11,10 @@ Beginner Javascript projects made using follow along tutorials
   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4bee1028-03fc-40fa-8806-1027b2576bc6/deploy-status)](https://kehsihba19-js-2.netlify.app/)
 
+<li> <b>Day3 :</b> Auto Write Text
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9507f15-4be9-4f8a-9d89-96afd3dac608/deploy-status)](https://kehsihba19-js-3.netlify.app/)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
